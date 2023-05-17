@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticmember_041", "staticmember_041\staticmember_041.vcxproj", "{2E25F088-5E2C-40AA-969B-C3C3ACF02A11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrstatic func_041", "mbrstatic func_041\mbrstatic func_041.vcxproj", "{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{2E25F088-5E2C-40AA-969B-C3C3ACF02A11}.Release|x64.Build.0 = Release|x64
 		{2E25F088-5E2C-40AA-969B-C3C3ACF02A11}.Release|x86.ActiveCfg = Release|Win32
 		{2E25F088-5E2C-40AA-969B-C3C3ACF02A11}.Release|x86.Build.0 = Release|Win32
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Debug|x64.ActiveCfg = Debug|x64
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Debug|x64.Build.0 = Debug|x64
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Debug|x86.Build.0 = Debug|Win32
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Release|x64.ActiveCfg = Release|x64
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Release|x64.Build.0 = Release|x64
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Release|x86.ActiveCfg = Release|Win32
+		{8ADC9CD8-4A7B-4D39-82EA-3632B9AA4EE0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
