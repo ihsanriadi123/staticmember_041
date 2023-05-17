@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="mbrstatic func_041.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mbrstatic func_041.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
