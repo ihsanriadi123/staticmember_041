@@ -10,7 +10,12 @@ public:
 	mahasiswa();
 	mahasiswa(int);
 	mahasiswa(string);
-	mahasiswa(int inim, inama);
+	mahasiswa(int inim, string inama);
 	void cetak();
 };
+
+mahasiswa::mahasiswa() {
+	nim = 0;
+	nama = "";
+	}
 
